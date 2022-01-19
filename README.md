@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ahmad Zughaer
-- 👀 I’m interested in Travel & Food as well Coding
+- 👀 I’m interested in Travel & Food, Coding as well
 - 🌱 I’m currently learning MERN stack
 
 
